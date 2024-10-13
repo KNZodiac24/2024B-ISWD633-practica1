@@ -30,6 +30,7 @@ docker pull hello-world
 ```
 
 **¿Qué es nginx?**
+
 Nginx es un servidor web y proxy inverso que se destaca por su capacidad para servir contenido web de manera rápida y eficiente, así que puede funcionar como servidor web principal o como intermediario entre los clientes y los servidores de aplicación.
 
 Descargar la imagen  **nginx** en la versión **alpine**
@@ -65,6 +66,7 @@ docker inspect hello-world
 ```
 
 **¿Con qué algoritmo se está generando el ID de la imagen**
+
 Con el algoritmo SHA256.
 
 ### Filtrar imágenes
